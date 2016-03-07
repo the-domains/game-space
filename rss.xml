@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Game Space]]></title>
         <description><![CDATA[Game Space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/game-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:57:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 18:05:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/game-space/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Game Space</p>]]></description>
-            <link>undefineddeb09709-5030-45c6-9198-569fec54e37b/index.html</link>
+            <title><![CDATA[100 Best Games]]></title>
+            <description><![CDATA[<article><h1>100 Best Games</h1><p>Game Space</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dec44dd61a4e5a9c67ac72f608259099a4219897.jpg"></article>]]></description>
+            <link>https://thegrid.ai/game-space/deb09709-5030-45c6-9198-569fec54e37b/index.html</link>
             <guid isPermaLink="false">deb09709-5030-45c6-9198-569fec54e37b</guid>
-            <pubDate>Mon, 07 Mar 2016 17:57:10 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 18:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
