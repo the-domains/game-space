@@ -2,6 +2,7 @@ name: Game Space
 favicon: null
 layout_spectrum: 0.06448459927923977
 typography_spectrum: 0.4115939966868609
+title: Game Space
 cta:
   domain: null
   bucket: null
